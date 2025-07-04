@@ -1,4 +1,4 @@
-#Info About me
+# Info About me
 
 Hello my name is Ilya Gorshkov and I learning GIT fuctionality. Nice to meet you!
 
